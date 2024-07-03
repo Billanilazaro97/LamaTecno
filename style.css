@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 100%;
+    min-height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+}
+.head {
+    width: 100%;
+    height: 100%;
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+    height: 100px;
+    background-color: white;
+    
+}
+
+
+li,a{
+    text-decoration: none;
+    color: purple;
+    list-style: none;
+    font-size: 25px;
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.banner {
+    background-image: url(img/lamatecno1.jpeg);
+    display: flex;
+    align-items: center; 
+    height: 90vh;
+    width: 98vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.navbar-nav {
+    background-color: aqua;
+    
+}
+
+.container {
+    background-color: purple;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.imagenes {
+    display: flex;
+    width: 30%;
+    margin-bottom: 20px;
+}
+.imagenes img {
+    display: flex;
+    max-width: 100%;
+    height: 300px;
+    width: 350px;
+}
+
+.contactos {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+}
+h1{
+    background-color: aqua;
+    text-align: center;
+    color: purple;
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    padding: 20px;
+}
+
+.contactos img {
+    border-radius: 50%; 
+    transition: transform 0.2s; 
+}
+
+.contactos img:hover {
+    transform: scale(1.1);
+} 
+
+
+
+
