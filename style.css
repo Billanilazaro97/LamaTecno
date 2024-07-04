@@ -47,12 +47,11 @@ li,a{
     background-image: url(img/lamatecno1.jpeg);
     display: flex;
     align-items: center; 
-    height: 90vh;
+    height: 91vh;
     width: 98vw;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    
 }
 
 .navbar-nav {
@@ -107,7 +106,7 @@ h1{
 .contactos img {
     border-radius: 50%;
     transition: transform 0.2s;
-    box-shadow: 3px 3px 3px; 
+    box-shadow: 3px 3px 3px;
 }
 
 .contactos img:hover {
