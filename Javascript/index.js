@@ -1,2 +1,1 @@
 alert("Bienvenido a LamaTecno!!😀");
-

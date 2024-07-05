@@ -9,6 +9,7 @@ body {
     min-height: 100vh;
     font-family: 'Montserrat', sans-serif;
     background-color: black;
+    
 }
 .head {
     width: 100%;
@@ -44,7 +45,7 @@ li,a{
 }
 
 .banner {
-    background-image: url(img/lamatecno1.jpeg);
+    background-image: url(img/lamatecno_bright_movement.gif); 
     display: flex;
     align-items: center; 
     height: 91vh;
