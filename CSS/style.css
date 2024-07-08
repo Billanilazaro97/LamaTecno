@@ -90,20 +90,20 @@ li,a{
 }
 
 .contactos {
-    background-color: aqua;
+    background-image: url(/img/lamatecno1.jpg);
     display: flex;
     justify-content: center;
     gap: 10px;
     padding: 10px;
 }
-h1{
+h1, h3{
     background-color: aqua;
     text-align: center;
     color: purple;
     font-family: "Chakra Petch", sans-serif;
     font-weight: 700;
     font-style: normal;
-    padding: 20px;
+    padding: 5px;
 }
 
 .contactos img {
@@ -115,13 +115,13 @@ h1{
 .contactos img:hover {
     transform: scale(1.1);
 }
+
 @media (max-width: 600px) {
     body {
         font-size: 14px;
     }
     
 }
-
 
 @media (min-width: 601px) and (max-width: 1024px) {
     body {
@@ -130,10 +130,9 @@ h1{
     
 }
 
-
 @media (min-width: 1025px) {
     body {
         font-size: 18px;
     }
-}
+} 
 
