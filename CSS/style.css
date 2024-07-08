@@ -25,13 +25,14 @@ ul {
     padding: 2rem;
     height: 100px;
     background-color: white;
+
     
 }
 
 li {
     box-shadow: 2px 2px 2px 2px;
     border-radius: 10px;
-    color: #d00000;
+    
     
     
 }
@@ -43,6 +44,7 @@ li,a{
     font-family: "Chakra Petch", sans-serif;
     font-weight: 700;
     font-style: normal;
+    color:aqua
     
 }
 
@@ -58,7 +60,8 @@ li,a{
 }
 
 .navbar-nav {
-    background-color: aqua;
+    
+    background-image: url(/img/lamatecno1.jpg);
     
 }
 
@@ -109,7 +112,7 @@ h1, h3{
 .contactos img {
     border-radius: 50%;
     transition: transform 0.2s;
-    box-shadow: 3px 3px 3px;
+    
 }
 
 .contactos img:hover {
