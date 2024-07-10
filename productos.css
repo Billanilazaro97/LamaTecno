@@ -7,7 +7,7 @@ body {
     max-width: 100%;
     min-height: 100vh;
     font-family: 'Montserrat', sans-serif;
-    background-color: rgb(35, 34, 34);
+    background-color: #560bad;
 }
 .head {
     width: 100%;
@@ -46,7 +46,7 @@ main{
 .audio h1 {
     margin: 4rem 0 2rem;
     text-align: center;
-    color: white;
+    color: aquamarine;
     font-family: "Chakra Petch", sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -72,7 +72,7 @@ main{
 .relojes h1 {
     font-size: 2rem;
     margin: 4rem 0 2rem;
-    color: white;
+    color: aquamarine;
     font-family: "Chakra Petch", sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -84,14 +84,14 @@ ul {
     justify-content: space-around;
     padding: 2rem;
     height: 100px;
-    background-color: white;
+    background-color: aquamarine;
     
 }
 
 
 li,a{
     text-decoration: none;
-    color: aqua;
+    color: aquamarine;
     list-style: none;
     font-size: 25px;
     font-family: "Chakra Petch", sans-serif;
@@ -99,7 +99,7 @@ li,a{
     font-style: normal;
 }
 .navbar-nav {
-    background-image: url(img/lamatecno1.jpg);
+    background-image: url(/img/lamatecno1.jpg);
     box-shadow: 2px 2px 2px 2px;
     
 }

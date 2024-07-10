@@ -9,7 +9,6 @@ body {
     min-height: 100vh;
     font-family: 'Montserrat', sans-serif;
     background-color: black;
-    
 }
 
 .head {
@@ -24,7 +23,7 @@ ul {
     justify-content: space-around;
     padding: 2rem;
     height: 100px;
-    background-color: white;
+    
 
     
 }
@@ -49,7 +48,7 @@ li,a{
 }
 
 .banner {
-    background-image: url(img/lamatecno_bright_movement.gif); 
+    background-image: url(/img/lamatecno_bright_movement.gif); 
     display: flex;
     align-items: center; 
     height: 91vh;
@@ -61,7 +60,7 @@ li,a{
 
 .navbar-nav {
     
-    background-image: url(img/lamatecno1.jpg);
+    background-image: url(/img/lamatecno1.jpg);
     
 }
 
@@ -93,8 +92,8 @@ li,a{
 }
 
 .contactos {
-    background-image: url(img/lamatecno1.jpg);
-    display: flex;
+    background-image: url(/img/lamatecno1.jpg);
+    display: flex; 
     justify-content: center;
     gap: 10px;
     padding: 10px;
