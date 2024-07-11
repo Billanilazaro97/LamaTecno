@@ -48,11 +48,11 @@ li,a{
 }
 
 .banner {
-    background-image: url(lamatecno_bright_movement.gif); 
+    background-image: url(Nuevaparaelbanner.jpg); 
     display: flex;
     align-items: center; 
     height: 91vh;
-    width: 98vw;
+    width: 99vw;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
