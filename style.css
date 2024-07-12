@@ -59,9 +59,7 @@ li,a{
 }
 
 .navbar-nav {
-    
-    background-image: url(img/lamatecno1.jpg);
-    
+    background-image: url(lamatecno1.jpg);
 }
 
 .container {
@@ -92,7 +90,7 @@ li,a{
 }
 
 .contactos {
-    background-image: url(img/lamatecno1.jpg);
+    background-image: url(lamatecno1.jpg);
     display: flex; 
     justify-content: center;
     gap: 10px;
